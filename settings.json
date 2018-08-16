@@ -1,0 +1,27 @@
+{
+    "window.zoomLevel": 0,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true, 
+        "**/*.spec.ts" : true,
+        "**/*.map" : true         
+    },
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "afterDelay",
+    "omnisharp.projectLoadTimeout": 1200,
+    "git.enableSmartCommit": true,
+    "window.titleBarStyle": "custom",
+    "terminal.integrated.experimentalTextureCachingStrategy": "static",
+    "breadcrumbs.enabled": true,
+    "csharp.suppressDotnetInstallWarning": true,
+    "csharp.suppressDotnetRestoreNotification": true,
+    "csharp.suppressProjectJsonWarning": true,
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "csharp.format.enable": false
+}
